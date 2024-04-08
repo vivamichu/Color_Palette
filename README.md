@@ -20,19 +20,23 @@ ColorME is a web application that allows users to create their own color palette
 The project is structured as follows:
 
 - **src**: Contains the source code of the project.
-  - **assets**: Contains React components used in the application.
-    - **App.js**: Main component that renders the ColorME application.
-  - **styles.css**: Contains the CSS styles for the application.
-- **public**: Contains static assets and the index.html file.
+    - **assets**: Contains React components used in the application.
+    - **App.jsx**: Main component that renders the ColorME application.
+    - **main.jsx**
+    - **styles.css**: Contains the CSS styles for the application.
+- **public**: Contains static assets
+- **index.html**
 - **README.md**: This file provides an overview of the project.
 
 ## Installation
 To run the ColorME project locally, follow these steps:
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run  `npm install`  to install the dependencies.
-4. Run  `npm start`  to start the development server.
-5. Open your browser and go to  `http://localhost:xxxx`  to view the application.
+1. Install Node.js and npm
+2. Clone the repository to your local machine.
+3. Navigate to the project directory.
+4. Run  `npm install`  to install the dependencies.
+5. Run  `npm install react-dom react-color chroma-js`
+6. Run  `npm run dev`  to start the development server.
+7. Open your browser and go to  `http://localhost:xxxx`  to view the application.
 
 ## Features
 <img width="1440" alt="Screenshot 2024-04-08 at 19 15 07" src="https://github.com/vivamichu/Color_Palette/assets/92267183/a46883f9-ff3f-44ea-b934-e472b4c2b76b">
