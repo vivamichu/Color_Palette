@@ -34,7 +34,7 @@ To run the ColorME project locally, follow these steps:
 2. Clone the repository to your local machine.
 3. Navigate to the project directory.
 4. Run  `npm install`  to install the dependencies.
-5. Run  `npm install react-dom react-color chroma-js`
+5. Run  `npm install react react-dom react-color chroma-js`
 6. Run  `npm run dev`  to start the development server.
 7. Open your browser and go to  `http://localhost:xxxx`  to view the application.
 
