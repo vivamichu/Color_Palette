@@ -20,7 +20,7 @@ ColorME is a web application that allows users to create their own color palette
 The project is structured as follows:
 
 - **src**: Contains the source code of the project.
-  - **components**: Contains React components used in the application.
+  - **assets**: Contains React components used in the application.
     - **App.js**: Main component that renders the ColorME application.
   - **styles.css**: Contains the CSS styles for the application.
 - **public**: Contains static assets and the index.html file.
