@@ -57,7 +57,7 @@ This project, although functional is far from perfect. If I had more time I'd im
 - chroma-js (for color manipulation)
 
 ## Author
-Ayaulym Raikhankyzy
+Ayaulym R
 
 ---
 
